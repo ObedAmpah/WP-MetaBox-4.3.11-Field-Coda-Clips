@@ -1,13 +1,15 @@
 # Custom Metabox Field Clips for WordPress 
 **Version 1.0**
 
+Requires at least: 3.5
+Tested up to:
+License: GPLv2
+
 ##Contributors:
 
 **[Sabra Design](http://www.sabradesign.me)**
 
-Version: 0.1 Requires at least: 3.5
-Tested up to:
-License: GPLv2
+
 
 ## Description:
 
