@@ -16,7 +16,7 @@ Find information on Coda IDE here: [CODA by Panic](https://panic.com/coda/)
 
 ## Installation: 
 
-1. Download File*
-1. Import the file via the clips menu in Coda*
-1. Save time*
+1. Download File
+1. Import the file via the clips menu in Coda
+1. Save time
 
