@@ -12,7 +12,7 @@ License: GPLv2
 
 ## Description:
 
-Based on the [Custom Metaboxes WP Plugin](https://github.com/WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress), the meta box fields have been broken out into Coda Clips for quicker assembly of your custom metaboxes.
+Based on the [Meta-Box Plugin](https://github.com/rilwis/meta-box), the meta box fields have been broken out into Coda Clips for quicker assembly of your custom metaboxes.
 
 Find information on Coda IDE here: [CODA by Panic](https://panic.com/coda/)
 
