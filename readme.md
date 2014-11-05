@@ -1,8 +1,9 @@
-# Custom Metabox Field Clips for WordPress 0.1
+# Custom Metabox Field Clips for WordPress 
+**Version 1.0**
 
 ##Contributors:
 
-**Sabra Design**
+**[Sabra Design](http://www.sabradesign.me)**
 
 Version: 0.1 Requires at least: 3.5
 Tested up to:
