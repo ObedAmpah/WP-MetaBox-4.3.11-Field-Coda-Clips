@@ -1,8 +1,7 @@
 # Custom Metabox Field Clips for WordPress 
 **Version 1.0**
 
-Requires at least: 3.5
-Tested up to:
+Requires at least: 3.5 |
 License: GPLv2
 
 ##Contributors:
